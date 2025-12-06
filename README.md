@@ -1,58 +1,120 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## AI-Enabled Smart Bus System for Intelligent Student Transportation and Real-Time Monitoring
+The Smart Bus System integrates AI and IoT-based automation to streamline student transportation, ensuring real-time safety, accurate attendance, and transparent monitoring. The system replaces manual processes with QR-based boarding, intelligent seat allocation, GPS tracking, and AI-powered overspeed/anomaly detection, improving the overall experience for students, parents, and administrators.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The AI-Enabled Smart Bus System is a software-driven project designed to automate and secure the student transportation workflow. Traditional bus management requires manual attendance, uncertain seat availability, and limited visibility for parents and admin.
+This project overcomes these challenges by integrating:
+
+QR code–based student authentication
+
+Real-time seat tracking and bus full-detection
+
+Swarm-based same-route bus suggestion
+
+AI-powered overspeed and anomaly detection
+
+Instant notifications to parents
+
+Through a unified software interface, the system enhances safety, reduces human error, and offers transparency throughout the journey.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+✔ QR code–based boarding authentication
+
+✔ Real-time seat allocation and occupancy status
+
+✔ Swarm-based route suggestion when bus is full
+
+✔ AI-based overspeed & anomaly detection
+
+✔ Instant notifications to parents
+
+✔ Cloud-synchronized records and logs
+
+✔ Fully software-based — no hardware dependency
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Operating System
+
+• Works on Windows 10/11 (64-bit recommended)
+
+Development Environment
+
+• Python 3.8+
+• Required Libraries: OpenCV, Flask/Streamlit, NumPy, Pandas
+• Machine Learning Libraries: PyTorch / Scikit-learn
+
+Backend / API
+
+• Python (Flask / FastAPI)
+• Cloud Database (Firebase / MongoDB)
+
+Dashboard
+
+• HTML, CSS, JavaScript
+• Visualization libraries (Chart.js / Leaflet Maps)
+
+Version Control
+
+• Git / GitHub for code management
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![WhatsApp Image 2025-11-22 at 16 18 39_a4d2bbd1](https://github.com/user-attachments/assets/26849df9-4dff-47a4-b4ae-2137588f84d2)
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output 1 – Home page
+<img width="1563" height="1013" alt="Screenshot 2025-11-23 000630" src="https://github.com/user-attachments/assets/b7f9bcdc-3216-416f-84d4-7980102bd2a3" />
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Student's Dashboard
+ <img width="1561" height="1017" alt="Screenshot 2025-11-23 000653" src="https://github.com/user-attachments/assets/343454ea-84ac-4afa-9ed7-384481e6d537" />
+
+
+#### Output3 - Parent's Dashboard
+
+<img width="1564" height="1020" alt="Screenshot 2025-11-23 000711" src="https://github.com/user-attachments/assets/1445016b-ee6c-4749-8c2b-06a0198932ad" />
+
+
+#### Output3 - Driver's Dashboard
+
+<img width="1563" height="1019" alt="Screenshot 2025-11-23 000732" src="https://github.com/user-attachments/assets/9ca6fd58-4e04-45cc-8af3-72eade4db8bd" />
+
+
+
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Smart Bus System improves transparency, accuracy, and safety in student transportation.
+Its AI-powered monitoring ensures early detection of risky driving behaviors, and the automated QR-based attendance removes manual errors.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The system:
+• Enhances trust for parents
+• Reduces administrative workload
+• Optimizes bus utilization via swarm-based bus allocation
+• Increases safety through real-time AI alerts
+
+This project demonstrates the potential of AI + IoT software systems to revolutionize institutional mobility and student safety.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. Ammar K. et al., “A Real-Time School Bus Tracking and Monitoring System,” IEEE, 2019.
+
+2. Redmon J., Farhadi A., “YOLOv3: An Incremental Improvement,” 2018.
+
+3. Huang J. et al., “Speed/Accuracy Trade-offs for Modern Object Detectors,” CVPR, 2021.
+
+4. Ma Y., Zhang Y., “Deep Learning for Object Detection: A Review,” IEEE, 2021.
+
+5. Savitha S.C., Natya S., “QR-Based School Bus Monitoring System,” 2020.
 
 
 
